@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Daniel Percy Custodio Chavez</h1>
 <h3 align="center">Un apasionado programador de Perú</h3>
-<p align="center">Estoy fascinado por cómo la tecnología informática 🌐 ha traído cambios a nuestras vidas que nunca se podrían haber predicho; ser testigo de la expansión de la informática me permitió considerar estudiar ingeniería de software desde una edad temprana, y mi entusiasmo se ha desarrollado perpetuamente desde entonces. También me encanta explorar nuevas tecnologías 💻 y utilizarlas para construir cosas interesantes 🛠️</p>
+<p align="center">Estoy fascinado por cómo la tecnología informática 🌐 ha transformado nuestras vidas de maneras que nunca se podrían haber predicho. Ser testigo de la evolución de la informática me motivó a estudiar Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú, donde actualmente curso el 7mo ciclo. Mi entusiasmo por la tecnología se ha incrementado continuamente desde entonces. Me encanta explorar nuevas tecnologías 💻 y aplicarlas para desarrollar proyectos innovadores 🛠️.</p>
 
 
 <div align="center">
